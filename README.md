@@ -67,12 +67,14 @@ IRuDD/
 
 ## 📝 Citation
 If you find this dataset useful for your research, please cite our work:
+```bibtex
 @inproceedings{lagzian2026irudd,
   title={{IRuDD}: A Large-Scale Real-World Dataset for Industrial Rubber Defect Detection},
   author={Lagzian, Arash and Mollaee, Saeed and Shahi, Leila and Beigy, Hamid},
   booktitle={Proc. of the International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME)},
   year={2026}
 }
+```
 
 ## 📧 Contact
 For any questions regarding the dataset or collaboration, please contact:
