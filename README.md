@@ -27,9 +27,9 @@ We established strong baselines using state-of-the-art (SOTA) object detection m
 
 | Model | Backbone | Precision | Recall | mAP@50 | mAP@50-90 |
 | :--- | :--- | :---: | :---: | :---: | :---: |
-| Faster-RCNN | ResNet-52 | 69.15 | 83.62 | 61.05 | 63.08 |
-| Faster-RCNN | VGG-16+200 | 74.81 | 80.51 | 74.81 | **76.10** |
-| Faster-RCNN | MobileNetV3-s+200 | 53.96 | 65.34 | 58.65 | 57.40 |
+| Faster-RCNN | ResNet-50 | 69.15 | 83.62 | 61.05 | 63.08 |
+| Faster-RCNN | VGG-16 | 74.81 | 80.51 | 74.81 | **76.10** |
+| Faster-RCNN | MobileNetV3 | 53.96 | 65.34 | 58.65 | 57.40 |
 | YOLOv5 | CSPDarknet53 | **94.10** | **96.00** | **98.00** | <u>65.50</u> |
 | YOLOv7 | E-ELAN | 64.30 | 65.20 | 69.80 | 35.60 |
 | YOLOv8 | Custom-CSPDarknet53 | <u>92.10</u> | <u>91.20</u> | <u>96.50</u> | 64.10 |
@@ -59,7 +59,7 @@ IRuDD/
 ## 🛠️ Getting Started
 1. **Clone the Repo:**
    ```bash
-   git clone https://github.com
+   git clone https://github.com/arashlagzian/IRuDD
    cd IRuDD
    ```
 2. **Download Data:**
@@ -67,17 +67,12 @@ IRuDD/
 
 ## 📝 Citation
 If you find this dataset useful for your research, please cite our work:
-<!-- 
-```bibtex
 @inproceedings{lagzian2026irudd,
-  title={IRuDD: A Large-Scale Real-World Dataset for Industrial Rubber Defect Detection},
+  title={{IRuDD}: A Large-Scale Real-World Dataset for Industrial Rubber Defect Detection},
   author={Lagzian, Arash and Mollaee, Saeed and Shahi, Leila and Beigy, Hamid},
-  booktitle={Proceedings of the International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME)},
-  year={2026},
-  publisher={IEEE}
+  booktitle={Proc. of the International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME)},
+  year={2026}
 }
-```
--->
 
 ## 📧 Contact
 For any questions regarding the dataset or collaboration, please contact:
