@@ -61,10 +61,10 @@ IRuDD/
 1. **Clone the Repo:**
    ```bash
    git clone https://github.com/arashlagzian/IRuDD---ICECCME-IEEE-2026
-   cd IRuDD
+   cd IRuDD---ICECCME-IEEE-2026
    ```
 2. **Download Data:**
-   The dataset will be publicly released on [Kaggle/Roboflow] upon formal paper acceptance. [Link coming soon].
+   Download the dataset from Kaggle: [IRuDD Dataset](https://www.kaggle.com/datasets/arashlagzian/irudd-industrial-rubber-defect-detection-dataset)
 
 ## 📝 Citation
 If you find this dataset useful for your research, please cite our work:
