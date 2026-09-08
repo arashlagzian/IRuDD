@@ -1,6 +1,6 @@
 # IRuDD: A Large-Scale Real-World Dataset for Industrial Rubber Defect Detection
 
-Official repository for the paper: **"IRuDD: A Large-Scale Real-World Dataset for Industrial Rubber Defect Detection"** <!-- presented at **ICECCME 2026**, Bali, Indonesia.-->
+Official repository for the paper: **"IRuDD..."**, presented at **IEEE ICECCME 2026**, Bali, Indonesia.
 
 [[Paper (PDF)]](https://github.com/arashlagzian/IRuDD---ICECCME-IEEE-2026/blob/master/ICECCME2026___IRuDD%20camera%20ready%20version.pdf) [[Presentation Video]](https://drive.google.com/file/d/1esP9sYjwfTw47rMO12hG3avs7fZbbbG6/view?usp=sharing)
 ---
