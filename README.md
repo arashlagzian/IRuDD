@@ -60,7 +60,7 @@ IRuDD/
 ## 🛠️ Getting Started
 1. **Clone the Repo:**
    ```bash
-   git clone https://github.com/arashlagzian/IRuDD
+   git clone https://github.com/arashlagzian/IRuDD---ICECCME-IEEE-2026
    cd IRuDD
    ```
 2. **Download Data:**
